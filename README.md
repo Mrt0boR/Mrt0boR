@@ -1,7 +1,6 @@
 <h1> Welcome to my GitHub Page!</h1>
 <h3> Bio: </h3>
-
-<p>I have recently graduated from studying Classics at Durham University and now am waiting to study my MA in Computer Science. Therefore I am self-teaching in whatever carries my interests through project-based learning, whilst at the same time preparing to for my MA. </p>
+<p>I have recently graduated from studying Classics at Durham University and studying my MSc in Computer Science.</p>
 
 <h1>Code Skills in Order of Most experience: 
 </h1>
