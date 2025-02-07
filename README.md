@@ -1,6 +1,6 @@
 <h1> Welcome to my GitHub Page!</h1>
 <h3> Bio: </h3>
-<p>I have recently graduated from studying Classics at Durham University and studying my MSc in Computer Science.</p>
+<p>SWD in Fintech</p>
 
 <h1>Code Skills in Order of Most experience: 
 </h1>
